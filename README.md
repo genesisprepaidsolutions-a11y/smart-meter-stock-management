@@ -1,0 +1,1 @@
+# Smart Meter Stock Management\n\nSimple Streamlit app that allows installers to record 'Stock Out' transactions with photo proof, and lets admins approve/reject and export data.\n
